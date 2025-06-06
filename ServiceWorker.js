@@ -1,9 +1,9 @@
 const cacheName = "SJ-Dodge-1.0";
 const contentToCache = [
     "Build/Dobge.loader.js",
-    "Build/Dobge.framework.js.gz",
-    "Build/Dobge.data.gz",
-    "Build/Dobge.wasm.gz",
+    "Build/Dobge.framework.js",
+    "Build/Dobge.data",
+    "Build/Dobge.wasm",
     "TemplateData/style.css"
 
 ];
